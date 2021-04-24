@@ -6,14 +6,14 @@ I'm JiHun Park, a junior back-end developer. 🌱 <br>
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=FFFFFF"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/javaScript-F7DF1E.svg?&style=flat-square&logo=javaScript&logoColor=FFFFFF"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=FFFFFF"/>&nbsp;
+    <img src="https://img.shields.io/badge/javaScript-F7DF1E.svg?&style=flat-square&logo=javaScript&logoColor=FFFFFF"/>&nbsp
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-square&logo=jQuery&logoColor=FFFFFF"/></a> &nbsp
 </p>
 <p align="center">
-     <img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=FFFFFF"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF"/>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=FFFFFF"/>&nbsp;
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF"/>&nbsp;
 </p>
 <br/>
 <p align="center">
