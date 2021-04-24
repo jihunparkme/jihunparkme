@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=220&section=header&text=JiHun%20Park&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=JiHun%20Park&fontSize=40)
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
