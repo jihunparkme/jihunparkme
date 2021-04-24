@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=JiHun%20Park&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=80&section=header)
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
@@ -30,7 +30,7 @@ I'm JiHun Park, a junior back-end developer. 🌱 <br>
   <a target="_blank" href="https://data-make.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF7F00.svg?&style=flat-square&logo=Blogger&logoColor=FFFFFF"></a>&nbsp;
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=footer&text=%20&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=80&section=footer&text=%20&fontSize=20)
 
 <!--
 **metleeha/metleeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
