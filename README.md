@@ -24,7 +24,7 @@ I'm JiHun Park, a junior back-end developer. 🌱 <br>
 <h3 align="center">•••</h3>
 
 <p align="center" align="right">
-  <a target="_blank" href="https://jihunparkme.github.io/"><img src="https://img.shields.io/badge/Git-181717.svg?&style=flat-square&logo=Github&logoColor=FFFFFF"></a>&nbsp;
+  <a target="_blank" href="https://jihunparkme.github.io/"><img src="https://img.shields.io/badge/GitBlog-181717.svg?&style=flat-square&logo=Github&logoColor=FFFFFF"></a>&nbsp;
   <a target="_blank" href="https://data-make.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF7F00.svg?&style=flat-square&logo=Blogger&logoColor=FFFFFF"></a>&nbsp;
 </p>
 
