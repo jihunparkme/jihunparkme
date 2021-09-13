@@ -3,7 +3,7 @@
 I'm JiHun Park, a junior back-end developer. 🌱 <br>
 </p>
 
-<p align="center" style="font-weight: bold">선한 영향력을 전하는 개발자로 성장하기 위해 🏃꾸준히 🧗끈기있게 📖학습하고 💪🏼노력합니다.</p></br>
+<p align="center" style="font-weight: bold">선한 영향력을 전하는 개발자로 성장하기 위해 꾸준히🏃 끈기있게🧗 학습하고📖 노력합니다💪🏼.</p></br>
 
 
 ![Jihun Park's github stats](https://github-readme-stats.vercel.app/api?username=jihunparkme&show_icons=true&theme=vue)
