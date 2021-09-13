@@ -3,7 +3,7 @@
 I'm JiHun Park, a junior back-end developer. 🌱 <br>
 </p>
 
-<p align="center" style="font-weight: bold">선한 영향력을 전하는 개발자로 성장하기 위해 꾸준히🏃 끈기있게🧗 학습하고📖 노력합니다💪🏼.</p></br>
+<p align="center" style="font-weight: bold">선한 영향력을 전하는 개발자로 성장하기 위해 🏃꾸준히 🧗끈기있게 📖학습하고 💪🏼노력합니다.</p></br>
 
 
 ![Jihun Park's github stats](https://github-readme-stats.vercel.app/api?username=jihunparkme&show_icons=true&theme=vue)
@@ -12,8 +12,8 @@ I'm JiHun Park, a junior back-end developer. 🌱 <br>
 ---
 
 <p align="center" align="right">
-  <a target="_blank" href="https://jihunparkme.github.io/"><img src="https://img.shields.io/badge/Github-181717.svg?&style=flat-red&logo=Github&logoColor=FFFFFF"></a>&nbsp;
-  <a target="_blank" href="https://data-make.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF7F00.svg?&style=flat-red&logo=Blogger&logoColor=FFFFFF"></a>&nbsp;
+  <a target="_blank" href="https://jihunparkme.github.io/"><img src="https://img.shields.io/badge/Github-181717.svg?&style=flat-red&logo=GitBlog&logoColor=FFFFFF"></a>&nbsp;
+  <a target="_blank" href="https://data-make.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF7F00.svg?&style=flat-red&logo=TistoryBlog&logoColor=FFFFFF"></a>&nbsp;
 </p>
 
 <!--
