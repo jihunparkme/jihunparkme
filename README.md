@@ -3,9 +3,8 @@
 I'm JiHun Park, a junior back-end developer. 🌱 <br>
 </p>
 
-[![Jihun Park's github stats](https://github-readme-stats.vercel.app/api?username=jihunparkme&show_icons=true&theme=vue)](https://github.com/jihunparkme/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihunparkme&layout=compact&theme=vue)](https://github.com/jihunparkme)
+![Jihun Park's github stats](https://github-readme-stats.vercel.app/api?username=jihunparkme&show_icons=true&theme=vue)
+![Jihun Park's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihunparkme&layout=compact&theme=vue)
 
 ---
 
