@@ -11,9 +11,10 @@ I'm JiHun Park, a junior back-end developer. 🌱 <br>
 ---
 
 <p align="center" align="right">
-  <a target="_blank" href="https://jihunparkme.github.io/"><img src="https://img.shields.io/badge/Github-181717.svg?&style=flat-red&logo=GitBlog&logoColor=FFFFFF"></a>&nbsp;
-  <a target="_blank" href="https://data-make.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF7F00.svg?&style=flat-red&logo=TistoryBlog&logoColor=FFFFFF"></a>&nbsp;
+  <a target="_blank" href="https://jihunparkme.gitbook.io/docs"><img src="https://img.shields.io/badge/gitbook-BBDDE5.svg?&logo=gitbook&logoColor=fff"></a>&nbsp;
+  <a target="_blank" href="https://data-make.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000.svg?&logo=tistory&logoColor=fff"></a>&nbsp;
 </p>
+
 
 <!--
 Here are some ideas to get you started:
